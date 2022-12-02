@@ -40,6 +40,8 @@ public class CircleController : MonoBehaviour
     public bool stop;
     public bool CircleEnergyCheck1;
     public bool CircleEnergyCheck2;
+    public int clockwise = -1;
+    public int counterclockwise = 1;
 
 
     // Start is called before the first frame update
@@ -79,6 +81,59 @@ public class CircleController : MonoBehaviour
             }
             // PlayerMoving.AngleSpeed = Mathf.Lerp(PlayerMoving.AngleSpeed,PlayerMoving.AngleSpeed+3,Time.deltaTime*10);
         } 
+    }
+    public virtual void ADSkill(KeyCode Key, int dir, float ADSpeed, float EnergyDrainSpeed)
+    {
+        //서클 속도 증가 패시브
+        if (Input.GetKey(Key)&& PlayerMoving.CurrentEnergy > 0 && !stop){
+            rotdir = Mathf.Sign(dir)*ADSpeed;
+            PlayerMoving.CurrentEnergy -= Time.deltaTime * EnergyDrainSpeed;
+            ActiveSlider();
+            if (PlayerMoving.CurrentEnergy <0.01f){
+                stop = true;
+                rotdir = Mathf.Sign(dir);
+                //Debug.Log(stop);
+                UnActiveSlider();
+            }
+        }
+        if (Input.GetKeyUp(Key)){
+            stop = false;
+            UnActiveSlider();
+        }
+    }
+    public virtual void FeverSkill(KeyCode Key, int dir, float CircleSkillSpeed, float CircleEnergyDrainSpeed)
+    {
+        // 서클 속도 증가 액티브 스킬
+        if (Input.GetKeyDown(Key)){
+            if((Time.time-doubleclickedtime) < interval)
+            {
+                IsDoubleClicked = true;
+                doubleclickedtime = -1.0f;
+                //Debug.Log(IsDoubleClicked);
+            }
+            else{
+                IsDoubleClicked =false;
+                doubleclickedtime = Time.time;
+                //Debug.Log(IsDoubleClicked);
+            }
+        }
+        if (IsDoubleClicked && Player.CircleEnergy >= 50 || CircleEnergyCheck1){
+            ActiveSlider();
+            if (Player.CircleEnergy > 0.3f){
+                Player.CircleEnergy -= Time.deltaTime*CircleEnergyDrainSpeed;
+                rotdir = Mathf.Sign(dir)*CircleSkillSpeed;
+                CircleEnergyCheck1 = true;
+            }
+            else if (Player.CircleEnergy <= 0.3f){
+                CircleEnergyCheck1 = false;
+                UnActiveSlider();
+                rotdir = Mathf.Sign(dir);
+            }
+        }
+        if(Input.GetKeyUp(Key)){
+            IsDoubleClicked = false;
+            rotdir = Mathf.Sign(dir);
+        }
     }
     public virtual void ActiveSlider() //기력활성함수
     {
