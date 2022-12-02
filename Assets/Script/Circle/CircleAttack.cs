@@ -12,7 +12,7 @@ public class CircleAttack : MonoBehaviour
     public EnemyController enemyController;
     
     float EnemyDamage;
-    bool is_Slow; //Circle¿¡ ½½·Î¿ì È¿°ú 
+    bool is_Slow; //Circleï¿½ï¿½ ï¿½ï¿½ï¿½Î¿ï¿½ È¿ï¿½ï¿½ 
 
 
     // Start is called before the first frame update
@@ -24,18 +24,18 @@ public class CircleAttack : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        is_Slow = gameManger.isSlow;
-        if (is_Slow == true)
-        {
-            spriteRender.color = new Color(0, 0, 1, 1);
-        }
-        else
-        {
-            spriteRender.color = new Color(1, 1, 1, 1);
-        }
-    }
+    // void Update()
+    // {
+    //     is_Slow = gameManger.isSlow;
+    //     if (is_Slow == true)
+    //     {
+    //         spriteRender.color = new Color(0, 0, 1, 1);
+    //     }
+    //     else
+    //     {
+    //         spriteRender.color = new Color(1, 1, 1, 1);
+    //     }
+    // }
 
     void OnCollisionEnter2D(Collision2D collision)
     {

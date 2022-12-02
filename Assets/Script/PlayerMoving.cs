@@ -119,8 +119,8 @@ public class PlayerMoving : DamageController
         //바닥 감지
         if ((bottomjump && !anim.GetBool("jumping")) || (rigid.velocity.y< -0.0001f && !anim.GetBool("jumping")))
         {
-            Debug.DrawRay(rigid.position, Vector2.down, new Color(0, 1, 0));
-            RaycastHit2D rayHit = Physics2D.Raycast(rigid.position, Vector2.down, 1, LayerMask.GetMask("normalfloor"));
+            Debug.DrawRay(rigid.position+(Vector2.down*0.5f), Vector2.down, new Color(0, 1, 0));
+            RaycastHit2D rayHit = Physics2D.Raycast(rigid.position+(Vector2.down*0.5f), Vector2.down, 1, LayerMask.GetMask("normalfloor"));
             if (rayHit.collider == null)
             {
                 anim.SetBool("jumping", true);
@@ -193,16 +193,16 @@ public class PlayerMoving : DamageController
         //랜딩
         if (anim.GetBool("jumping"))
         {
-            Debug.DrawRay(rigid.position + Vector2.down * 0.49f, Vector2.down, new Color(0, 1, 0));
-            RaycastHit2D rayHit = Physics2D.Raycast(rigid.position + Vector2.down * 0.49f, Vector2.down, 1, LayerMask.GetMask("normalfloor", "blockedfloor"));
-            Debug.DrawRay(rigid.position + new Vector2(0.3f, -0.49f), Vector2.down, new Color(0, 1, 0));
-            RaycastHit2D rayHit3 = Physics2D.Raycast(rigid.position + new Vector2(0.3f, -0.49f), Vector2.down, 1, LayerMask.GetMask("normalfloor", "blockedfloor"));
-            Debug.DrawRay(rigid.position + new Vector2(-0.3f, -0.49f), Vector2.down, new Color(0, 1, 0));
-            RaycastHit2D rayHit4 = Physics2D.Raycast(rigid.position + new Vector2(-0.3f, -0.49f), Vector2.down, 1, LayerMask.GetMask("normalfloor", "blockedfloor"));
-            Debug.DrawRay(rigid.position, Vector2.up, new Color(1, 0, 0));
-            RaycastHit2D rayHit2 = Physics2D.Raycast(rigid.position, Vector2.up, 1, LayerMask.GetMask("normalfloor", "blockedfloor"));
-            //Debug.Log(rayHit2.collider.name);
-            if (rigid.velocity.y < 0 && rayHit2.collider == null)
+            Debug.DrawRay(rigid.position + Vector2.down * 0.49f+(Vector2.down*0.49f), Vector2.down, new Color(0, 1, 0));
+            RaycastHit2D rayHit = Physics2D.Raycast(rigid.position + Vector2.down * 0.49f+(Vector2.down*0.49f), Vector2.down, 1, LayerMask.GetMask("normalfloor", "blockedfloor"));
+            Debug.DrawRay(rigid.position + new Vector2(0.3f, -0.49f)+(Vector2.down*0.49f), Vector2.down, new Color(0, 1, 0));
+            RaycastHit2D rayHit3 = Physics2D.Raycast(rigid.position + new Vector2(0.3f, -0.49f)+(Vector2.down*0.48f), Vector2.down, 1, LayerMask.GetMask("normalfloor", "blockedfloor"));
+            Debug.DrawRay(rigid.position + new Vector2(-0.3f, -0.49f)+(Vector2.down*0.49f), Vector2.down, new Color(0, 1, 0));
+            RaycastHit2D rayHit4 = Physics2D.Raycast(rigid.position + new Vector2(-0.3f, -0.49f)+(Vector2.down*0.48f), Vector2.down, 1, LayerMask.GetMask("normalfloor", "blockedfloor"));
+            Debug.DrawRay(rigid.position+(Vector2.down*0.6f), Vector2.up, new Color(1, 0, 0));
+            RaycastHit2D rayHit2 = Physics2D.Raycast(rigid.position+(Vector2.down*0.6f), Vector2.up, 1, LayerMask.GetMask("normalfloor", "blockedfloor"));
+            //Debug.Log(rayHit2.collider);
+            if (rigid.velocity.y <= 0 && rayHit2.collider == null)
             {
                 //Debug.Log(rayHit.collider.name);
                 //Debug.Log(anim.GetBool("jumping"));
@@ -440,7 +440,11 @@ void OnCollisionEnter2D(Collision2D collision)
         }
         if (collision.gameObject.CompareTag("LeftExcelZone"))
         {
-            rigid.AddForce(Vector2.left * 150, ForceMode2D.Force);
+            rigid.AddForce(Vector2.left * 100, ForceMode2D.Force);
+        }
+        if (collision.gameObject.CompareTag("UpExcelZone"))
+        {
+            rigid.AddForce(Vector2.up * 20, ForceMode2D.Force);
         }
     }
 

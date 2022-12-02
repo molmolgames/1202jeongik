@@ -82,7 +82,11 @@ public class EnemyMove : EnemyController
                 Invoke("DropItem", 1f);
                 StopMove();
                 player.CurrentExp += EnemyExp;
-                player.CircleEnergy += EnemyExp;
+                // player.CircleEnergy += EnemyExp;
+                // GetComponent<Circle1MovingNew>()?.ActiveSlider();
+                // Debug.Log("CircleSliderOn");
+                // Invoke("GetComponent<Circle1MovingNew>()?.UnActiveSlider()",5);
+                // Debug.Log("CircleSliderOff");
                 //Invoke("Revive", 10);
             }
             else

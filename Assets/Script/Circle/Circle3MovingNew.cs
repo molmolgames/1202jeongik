@@ -77,25 +77,14 @@ public class Circle3MovingNew : CircleController
         //     }
         // }
         GetComponent<CircleController>()?.WSkill(KeyCode.W,WRadius,WSpeed,WSize);
-        if (Input.GetKeyUp(KeyCode.W)){
-            stop = false;
-        }
-        else if(!Input.GetKey(KeyCode.W) && Radius >3 || PlayerMoving.Size >1.0001f || stop){
-            Radius = Mathf.Lerp(Radius,3,Time.deltaTime*10);
-            rotdir = Mathf.Lerp(rotdir,Mathf.Sign(rotdir) * 1f,Time.deltaTime*10);
-            PlayerMoving.Size = Mathf.Lerp(PlayerMoving.Size,1f,Time.deltaTime*10);
-            if (Radius < 3.1f){
-                //stop = false;
-            }
-            // PlayerMoving.AngleSpeed = Mathf.Lerp(PlayerMoving.AngleSpeed,PlayerMoving.AngleSpeed+3,Time.deltaTime*10);
-        } 
+        
         // if (Input.GetKey(KeyCode.S)){
         //     Radius = Mathf.Lerp(Radius,1,Time.deltaTime*10);
         //     rotdir = Mathf.Lerp(rotdir,Mathf.Sign(rotdir) * 0.5f,Time.deltaTime*10);
         //     PlayerMoving.Damagefix = Mathf.Lerp(PlayerMoving.Damagefix,0,Time.deltaTime*10);
             
         // }
-        else if(!Input.GetKey(KeyCode.S) && Radius <3){
+        if(!Input.GetKey(KeyCode.S) && Radius <3){
             Radius = Mathf.Lerp(Radius,3,Time.deltaTime*10);
             rotdir = Mathf.Lerp(rotdir,Mathf.Sign(rotdir) * 1.0f,Time.deltaTime*10);
             PlayerMoving.Damagefix = Mathf.Lerp(PlayerMoving.Damagefix,1,Time.deltaTime*10);
@@ -104,32 +93,37 @@ public class Circle3MovingNew : CircleController
         if (Input.GetKey(KeyCode.D)&& PlayerMoving.CurrentEnergy > 0 && !stop){
             rotdir = -ADSpeed;
             PlayerMoving.CurrentEnergy -= Time.deltaTime * EnergyDrainSpeed;
+            ActiveSlider();
             if (PlayerMoving.CurrentEnergy <0.01f){
                 stop = true;
+                rotdir = -1;
+                //Debug.Log(stop);
+                UnActiveSlider();
             }
         }
         if (Input.GetKeyUp(KeyCode.D)){
             stop = false;
+            UnActiveSlider();
         }
 
-        //서클 방향 변경
-        if (Input.GetKeyDown(KeyCode.D)){
-            rotdir = -1;
-            if((Time.time-doubleclickedtime) < interval)
-            {
-                IsDoubleClicked = true;
-                doubleclickedtime = -1.0f;
-                Debug.Log(IsDoubleClicked);
-            }
-            else{
-                IsDoubleClicked =false;
-                doubleclickedtime = Time.time;
-                Debug.Log(IsDoubleClicked);
-            }
-        }
+        // //서클 방향 변경
+        // if (Input.GetKeyDown(KeyCode.D)){
+        //     rotdir = -1;
+        //     if((Time.time-doubleclickedtime) < interval)
+        //     {
+        //         IsDoubleClicked = true;
+        //         doubleclickedtime = -1.0f;
+        //         //Debug.Log(IsDoubleClicked);
+        //     }
+        //     else{
+        //         IsDoubleClicked =false;
+        //         doubleclickedtime = Time.time;
+        //         //Debug.Log(IsDoubleClicked);
+        //     }
+        // }
         // 서클 속도 증가 액티브 스킬
         if (IsDoubleClicked && Player.CircleEnergy >= 50 || CircleEnergyCheck1){
-            
+            ActiveSlider();
             if (Player.CircleEnergy > 0.3f){
                 Player.CircleEnergy -= Time.deltaTime*CircleEnergyDrainSpeed;
                 rotdir = -CircleSkillSpeed;
@@ -137,6 +131,7 @@ public class Circle3MovingNew : CircleController
             }
             else if (Player.CircleEnergy <= 0.3f){
                 CircleEnergyCheck1 = false;
+                UnActiveSlider();
                 rotdir = -1;
             }
         }
@@ -148,31 +143,36 @@ public class Circle3MovingNew : CircleController
         if (Input.GetKey(KeyCode.A)&& PlayerMoving.CurrentEnergy > 0 && !stop){
             rotdir = ADSpeed;
             PlayerMoving.CurrentEnergy -= Time.deltaTime * EnergyDrainSpeed;
+            ActiveSlider();
             if (PlayerMoving.CurrentEnergy <0.01f){
                 stop = true;
+                rotdir = 1;
+                UnActiveSlider();
             }
         }
         if (Input.GetKeyUp(KeyCode.A)){
+            UnActiveSlider();
             stop = false;
         }
 
-        //서클 방향 변경
-        if (Input.GetKeyDown(KeyCode.A)){
-            rotdir = 1;
-            if((Time.time-doubleclickedtime2) < interval)
-            {
-                IsDoubleClicked2 = true;
-                doubleclickedtime2 = -1.0f;
-                Debug.Log(IsDoubleClicked2);
-            }
-            else{
-                IsDoubleClicked2 =false;
-                doubleclickedtime2 = Time.time;
-                Debug.Log(IsDoubleClicked2);
-            }
-        }
+        // //서클 방향 변경
+        // if (Input.GetKeyDown(KeyCode.A)){
+        //     rotdir = 1;
+        //     if((Time.time-doubleclickedtime2) < interval)
+        //     {
+        //         IsDoubleClicked2 = true;
+        //         doubleclickedtime2 = -1.0f;
+        //         //Debug.Log(IsDoubleClicked2);
+        //     }
+        //     else{
+        //         IsDoubleClicked2 =false;
+        //         doubleclickedtime2 = Time.time;
+        //         //Debug.Log(IsDoubleClicked2);
+        //     }
+        // }
         //서클 속도 증가 액티브 스킬
         if (IsDoubleClicked2 && Player.CircleEnergy >= 50 || CircleEnergyCheck2){
+            ActiveSlider();
            
             if (Player.CircleEnergy > 0.3f){
                 Player.CircleEnergy -= Time.deltaTime*CircleEnergyDrainSpeed;
@@ -181,6 +181,7 @@ public class Circle3MovingNew : CircleController
             }
             else if (Player.CircleEnergy <= 0.3f){
                 CircleEnergyCheck2 = false;
+                UnActiveSlider();
                 rotdir = 1;
             }
         }

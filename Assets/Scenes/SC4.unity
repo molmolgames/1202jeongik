@@ -140,7 +140,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -184,7 +184,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -216,7 +216,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -248,7 +248,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -280,7 +280,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -312,7 +312,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -344,7 +344,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -376,7 +376,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -408,7 +408,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -446,7 +446,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -490,7 +490,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -522,7 +522,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -554,7 +554,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -592,7 +592,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -625,7 +625,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -768,7 +768,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -812,7 +812,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -844,7 +844,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -876,7 +876,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -908,7 +908,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -940,7 +940,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -972,7 +972,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1004,7 +1004,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1048,7 +1048,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1080,7 +1080,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1124,7 +1124,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1156,7 +1156,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1188,7 +1188,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1220,7 +1220,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1252,7 +1252,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1284,7 +1284,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1316,7 +1316,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1348,7 +1348,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1380,7 +1380,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1412,7 +1412,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1444,7 +1444,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1459,18 +1459,6 @@ MonoBehaviour:
   dropItem: {fileID: 0}
   var: 0
   droppercent: 0
---- !u!114 &197198364 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3872414725284615102, guid: e9d96a3a4269f4d4a8e6cf6ab99e2a9d,
-    type: 3}
-  m_PrefabInstance: {fileID: 3872414725095936418}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &198408855 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8494402626856849590, guid: 755123f58b843324ba5b095b817be449,
@@ -1494,7 +1482,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1526,7 +1514,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1558,7 +1546,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1590,7 +1578,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1634,7 +1622,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1666,7 +1654,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1698,7 +1686,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1730,7 +1718,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1762,7 +1750,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1794,7 +1782,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1826,7 +1814,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1858,7 +1846,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1890,7 +1878,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1922,7 +1910,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -1943,18 +1931,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 924845156}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &248023226 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3872414725335505176, guid: e9d96a3a4269f4d4a8e6cf6ab99e2a9d,
-    type: 3}
-  m_PrefabInstance: {fileID: 3872414725095936418}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &248971815
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1972,7 +1948,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2004,7 +1980,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2036,7 +2012,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2068,7 +2044,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2100,7 +2076,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2132,7 +2108,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2164,7 +2140,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2208,7 +2184,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2240,7 +2216,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2413,7 +2389,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2451,7 +2427,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2495,7 +2471,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2527,7 +2503,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2562,7 +2538,7 @@ PrefabInstance:
     - target: {fileID: 1387559754487809559, guid: 9dfd8f7e8d5cca94b856572e54081ec1,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1387559754487809559, guid: 9dfd8f7e8d5cca94b856572e54081ec1,
         type: 3}
@@ -2633,7 +2609,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2665,7 +2641,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2728,7 +2704,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2760,7 +2736,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2792,7 +2768,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2824,7 +2800,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2856,7 +2832,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2888,7 +2864,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2932,7 +2908,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2964,7 +2940,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -2996,7 +2972,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3028,7 +3004,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3060,7 +3036,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3075,6 +3051,12 @@ MonoBehaviour:
   dropItem: {fileID: 0}
   var: 0
   droppercent: 0
+--- !u!1 &403134075 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3952799032965918190, guid: 1de56c506a2c22e419f92fd005c2dfd1,
+    type: 3}
+  m_PrefabInstance: {fileID: 8123131786209409859}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &404344776
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3092,7 +3074,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3124,7 +3106,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3163,13 +3145,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 413222223}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 462656171}
-  m_RootOrder: 4
+  m_Father: {fileID: 1486562346}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &413222225
 MonoBehaviour:
@@ -3267,7 +3249,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3299,7 +3281,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3331,7 +3313,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3369,7 +3351,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -3402,7 +3384,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3434,7 +3416,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3466,7 +3448,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3498,7 +3480,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3542,7 +3524,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3574,7 +3556,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3606,7 +3588,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3638,7 +3620,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3670,7 +3652,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3702,7 +3684,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3734,7 +3716,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3759,36 +3741,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &462656171 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-    type: 3}
-  m_PrefabInstance: {fileID: 1495496571853378658}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &462656173 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1495496572047263439, guid: d228f4c6978cb5048859e017b1e64958,
-    type: 3}
-  m_PrefabInstance: {fileID: 1495496571853378658}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8520c2a3e0b38774aa2d960a5c72d0c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &462656175 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1495496572047263437, guid: d228f4c6978cb5048859e017b1e64958,
-    type: 3}
-  m_PrefabInstance: {fileID: 1495496571853378658}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0725057d9a1edd14ba8ac339ca1f23e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &465078313
@@ -3839,7 +3791,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3871,7 +3823,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3903,7 +3855,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3935,7 +3887,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3967,7 +3919,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -3999,7 +3951,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4031,7 +3983,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4063,7 +4015,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4164,7 +4116,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4196,7 +4148,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4228,7 +4180,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4260,7 +4212,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4292,7 +4244,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4324,7 +4276,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4356,7 +4308,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4388,7 +4340,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4420,7 +4372,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4512,6 +4464,21 @@ PrefabInstance:
       propertyPath: m_ColliderPaths.Array.size
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3556400185643707589, guid: f510e63b2075aa043bbfc666b3db09b9,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556400185853721144, guid: f510e63b2075aa043bbfc666b3db09b9,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3556400186149744979, guid: f510e63b2075aa043bbfc666b3db09b9,
+        type: 3}
+      propertyPath: m_BodyType
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f510e63b2075aa043bbfc666b3db09b9, type: 3}
 --- !u!114 &528601701
@@ -4531,7 +4498,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4569,7 +4536,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -4614,7 +4581,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4646,7 +4613,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4678,7 +4645,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4710,7 +4677,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4742,7 +4709,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4774,7 +4741,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4806,7 +4773,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4838,7 +4805,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4870,7 +4837,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4914,7 +4881,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4946,7 +4913,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -4978,7 +4945,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5010,7 +4977,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5060,7 +5027,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5092,7 +5059,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5124,7 +5091,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5156,7 +5123,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5188,7 +5155,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5232,7 +5199,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5276,7 +5243,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5308,7 +5275,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5340,7 +5307,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5372,7 +5339,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5404,7 +5371,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5436,7 +5403,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5474,7 +5441,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -5507,7 +5474,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5551,7 +5518,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5583,7 +5550,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5615,7 +5582,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5647,7 +5614,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5691,7 +5658,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5723,7 +5690,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5755,7 +5722,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5787,7 +5754,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5825,7 +5792,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5875,7 +5842,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -5908,7 +5875,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5940,7 +5907,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -5972,7 +5939,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6004,7 +5971,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6067,7 +6034,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6099,7 +6066,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6131,7 +6098,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6169,7 +6136,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -6202,7 +6169,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6246,7 +6213,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6278,7 +6245,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6310,7 +6277,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6354,7 +6321,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6386,7 +6353,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6418,7 +6385,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6450,7 +6417,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6482,7 +6449,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6514,7 +6481,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6558,7 +6525,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6590,7 +6557,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6751,7 +6718,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6783,7 +6750,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6815,7 +6782,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6847,7 +6814,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6879,7 +6846,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6911,7 +6878,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6943,7 +6910,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -6975,7 +6942,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7019,7 +6986,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7051,7 +7018,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7083,7 +7050,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7115,7 +7082,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7159,7 +7126,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7203,7 +7170,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7241,7 +7208,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7273,7 +7240,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7305,7 +7272,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7337,7 +7304,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7369,7 +7336,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7401,7 +7368,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7433,7 +7400,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7465,7 +7432,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7480,18 +7447,6 @@ MonoBehaviour:
   dropItem: {fileID: 0}
   var: 0
   droppercent: 0
---- !u!114 &889628564 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3872414724374361654, guid: e9d96a3a4269f4d4a8e6cf6ab99e2a9d,
-    type: 3}
-  m_PrefabInstance: {fileID: 3872414725095936418}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &890023611
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7509,7 +7464,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7541,7 +7496,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7573,7 +7528,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7617,7 +7572,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7649,7 +7604,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7681,7 +7636,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7731,7 +7686,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -7757,7 +7712,7 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408447600217123, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: m_Controller
@@ -7767,17 +7722,17 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408447622229844, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408447661527502, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408447724243735, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: m_Controller
@@ -7787,12 +7742,12 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408447907146089, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408447946872528, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: m_Controller
@@ -7802,12 +7757,12 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408447948172092, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408448091721093, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: m_Controller
@@ -7817,12 +7772,12 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408448243480585, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408448243480628, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: m_Controller
@@ -7832,7 +7787,7 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408448296027830, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: m_Controller
@@ -7842,7 +7797,7 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408448781768481, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: m_Controller
@@ -7852,7 +7807,7 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408448810193514, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: m_Controller
@@ -7862,12 +7817,12 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408448900601875, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408448900601902, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: m_Controller
@@ -7877,27 +7832,27 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408449224120260, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408449531771149, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408449536914197, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 4176408449577732169, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 5620308747202729897, guid: 755123f58b843324ba5b095b817be449,
         type: 3}
       propertyPath: m_Controller
@@ -7982,7 +7937,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8014,7 +7969,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8046,7 +8001,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8078,7 +8033,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8110,7 +8065,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8142,7 +8097,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8174,7 +8129,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8218,7 +8173,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8250,7 +8205,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8288,7 +8243,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8351,7 +8306,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8383,7 +8338,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8415,7 +8370,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8447,7 +8402,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8479,7 +8434,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8579,7 +8534,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8611,7 +8566,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8643,7 +8598,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -8750,7 +8705,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -8783,7 +8738,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9019,7 +8974,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9051,7 +9006,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9083,7 +9038,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9115,7 +9070,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9178,7 +9133,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9210,7 +9165,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9273,7 +9228,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9305,7 +9260,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9337,7 +9292,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9369,7 +9324,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9401,7 +9356,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9433,7 +9388,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9465,7 +9420,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9497,7 +9452,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9529,7 +9484,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9561,7 +9516,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9593,7 +9548,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9625,7 +9580,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9688,7 +9643,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9720,7 +9675,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9752,7 +9707,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9784,7 +9739,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9816,7 +9771,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9860,7 +9815,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9904,7 +9859,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9936,7 +9891,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -9968,7 +9923,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10000,7 +9955,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10032,7 +9987,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10064,7 +10019,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10102,7 +10057,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -10135,7 +10090,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10179,7 +10134,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10211,7 +10166,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10243,7 +10198,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10275,7 +10230,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10307,7 +10262,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10339,7 +10294,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10371,7 +10326,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10403,7 +10358,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10447,7 +10402,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10485,7 +10440,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10517,7 +10472,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10532,6 +10487,12 @@ MonoBehaviour:
   dropItem: {fileID: 0}
   var: 0
   droppercent: 0
+--- !u!1 &1225917440 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8915113042626570043, guid: 1de56c506a2c22e419f92fd005c2dfd1,
+    type: 3}
+  m_PrefabInstance: {fileID: 8123131786209409859}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1233774487
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10549,7 +10510,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10581,7 +10542,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10613,7 +10574,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10645,7 +10606,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10683,7 +10644,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -10716,7 +10677,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10766,7 +10727,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10798,7 +10759,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10830,7 +10791,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10862,7 +10823,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -10912,7 +10873,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -10951,7 +10912,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -10990,7 +10951,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -11023,7 +10984,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11055,7 +11016,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11087,7 +11048,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11119,7 +11080,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11151,7 +11112,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11183,7 +11144,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11215,7 +11176,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11247,7 +11208,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11279,7 +11240,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11311,7 +11272,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11343,7 +11304,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11375,7 +11336,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11407,7 +11368,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11445,7 +11406,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11489,7 +11450,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11521,7 +11482,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -11553,7 +11514,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -16700,7 +16661,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -16732,7 +16693,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -16764,7 +16725,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -16796,7 +16757,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -16828,7 +16789,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -16860,7 +16821,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -16892,7 +16853,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -16930,7 +16891,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -16963,7 +16924,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -16995,7 +16956,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17027,7 +16988,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17090,7 +17051,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17122,7 +17083,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17154,7 +17115,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17186,7 +17147,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17249,7 +17210,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17281,7 +17242,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17327,7 +17288,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9c4d9238c51574cbcd59d220241f34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   Stages: []
   Restart_Button: {fileID: 915173520}
   menuSet: {fileID: 1581804341}
@@ -17338,7 +17299,7 @@ MonoBehaviour:
   storePanel: {fileID: 863814830}
   storeBuyText: {fileID: 1408890904}
   playerStatPanel: {fileID: 303808778}
-  playerStatText: {fileID: 462656175}
+  playerStatText: {fileID: 0}
   HelpPanel: {fileID: 579915303}
   playerLevelText: {fileID: 1336575085}
   playerHpText: {fileID: 716115978}
@@ -17423,7 +17384,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17455,7 +17416,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17487,7 +17448,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17519,7 +17480,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17551,7 +17512,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17583,7 +17544,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17615,7 +17576,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17659,7 +17620,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17691,7 +17652,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17723,7 +17684,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17755,7 +17716,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17793,7 +17754,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17837,7 +17798,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17869,7 +17830,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17901,7 +17862,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17933,7 +17894,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -17977,7 +17938,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18015,7 +17976,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -18031,6 +17992,24 @@ MonoBehaviour:
   var: 0
   droppercent: 0
   v: -1
+--- !u!114 &1486562345 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4946400692350691001, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+    type: 3}
+  m_PrefabInstance: {fileID: 1855409275}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8520c2a3e0b38774aa2d960a5c72d0c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1486562346 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+    type: 3}
+  m_PrefabInstance: {fileID: 1855409275}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1488285868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18048,7 +18027,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18092,7 +18071,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18124,7 +18103,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18156,7 +18135,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18200,7 +18179,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18232,7 +18211,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18264,7 +18243,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18327,7 +18306,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18359,7 +18338,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18391,7 +18370,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18423,7 +18402,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18455,7 +18434,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18487,7 +18466,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18519,7 +18498,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18563,7 +18542,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18595,7 +18574,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18627,7 +18606,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18659,7 +18638,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18691,7 +18670,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18723,7 +18702,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18761,7 +18740,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18793,7 +18772,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18831,7 +18810,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -18876,7 +18855,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18908,7 +18887,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18940,7 +18919,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -18972,7 +18951,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19004,7 +18983,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19036,7 +19015,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19080,7 +19059,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19112,7 +19091,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19144,7 +19123,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19176,7 +19155,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19208,7 +19187,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19240,7 +19219,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19278,7 +19257,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -19311,7 +19290,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19343,7 +19322,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19816,7 +19795,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19848,7 +19827,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19886,7 +19865,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19924,7 +19903,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19956,7 +19935,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -19994,7 +19973,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20026,7 +20005,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20082,7 +20061,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -20121,7 +20100,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20177,7 +20156,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20209,7 +20188,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20241,7 +20220,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20273,7 +20252,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20348,7 +20327,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20380,7 +20359,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20412,7 +20391,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20444,7 +20423,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20476,7 +20455,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20520,7 +20499,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20643,7 +20622,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20675,7 +20654,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20707,7 +20686,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20739,7 +20718,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20771,7 +20750,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20803,7 +20782,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20835,7 +20814,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20867,7 +20846,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20899,7 +20878,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20931,7 +20910,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20963,7 +20942,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -20995,7 +20974,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21027,7 +21006,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21090,7 +21069,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21140,7 +21119,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21172,7 +21151,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21204,7 +21183,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21219,12 +21198,6 @@ MonoBehaviour:
   dropItem: {fileID: 0}
   var: 0
   droppercent: 0
---- !u!1 &1813666639 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3952799032965918190, guid: 1de56c506a2c22e419f92fd005c2dfd1,
-    type: 3}
-  m_PrefabInstance: {fileID: 8123131786209409859}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1816770255
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21242,7 +21215,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21274,7 +21247,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21306,7 +21279,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21338,7 +21311,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21353,12 +21326,6 @@ MonoBehaviour:
   dropItem: {fileID: 0}
   var: 0
   droppercent: 0
---- !u!1 &1832264799 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6056795308946106820, guid: 1de56c506a2c22e419f92fd005c2dfd1,
-    type: 3}
-  m_PrefabInstance: {fileID: 8123131786209409859}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1834967710
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21376,7 +21343,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21408,7 +21375,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21440,7 +21407,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21484,7 +21451,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21499,6 +21466,143 @@ MonoBehaviour:
   dropItem: {fileID: 0}
   var: 0
   droppercent: 0
+--- !u!1001 &1855409275
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4946400692350690995, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_Name
+      value: Player 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946400692350691001, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: hpSlider
+      value: 
+      objectReference: {fileID: 1433920538}
+    - target: {fileID: 4946400692350691001, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: expSlider
+      value: 
+      objectReference: {fileID: 1490644814}
+    - target: {fileID: 4946400692350691001, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: gameManger
+      value: 
+      objectReference: {fileID: 1408890901}
+    - target: {fileID: 4946400692350691001, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: EnergySlider
+      value: 
+      objectReference: {fileID: 286802080}
+    - target: {fileID: 4946400692350691001, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: Circle.Array.data[0]
+      value: 
+      objectReference: {fileID: 1225917440}
+    - target: {fileID: 4946400692350691001, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: Circle.Array.data[1]
+      value: 
+      objectReference: {fileID: 403134075}
+    - target: {fileID: 4946400692350691001, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: Circle.Array.data[2]
+      value: 
+      objectReference: {fileID: 1857912072}
+    - target: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -47.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 242.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946400692350691007, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9122630647619736343, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9122630648007272103, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9122630648447969881, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37b3bb8512794a24f8812907c3a5e6c5, type: 3}
+--- !u!1 &1857912072 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6056795308946106820, guid: 1de56c506a2c22e419f92fd005c2dfd1,
+    type: 3}
+  m_PrefabInstance: {fileID: 8123131786209409859}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1861060593 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 9122630647619736341, guid: 37b3bb8512794a24f8812907c3a5e6c5,
+    type: 3}
+  m_PrefabInstance: {fileID: 1855409275}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1861577664 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8494402627567893570, guid: 755123f58b843324ba5b095b817be449,
@@ -21522,7 +21626,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -21555,7 +21659,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21587,7 +21691,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21619,7 +21723,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21651,7 +21755,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21683,7 +21787,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21705,6 +21809,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1019137121331579037, guid: b9e7d4899f77d8940910ea28ae7ff45a,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1486562345}
+    - target: {fileID: 1561049465824294364, guid: b9e7d4899f77d8940910ea28ae7ff45a,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 2667698571630923506, guid: b9e7d4899f77d8940910ea28ae7ff45a,
         type: 3}
       propertyPath: m_AnchorMax.x
@@ -21715,6 +21829,26 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3151573417756823032, guid: b9e7d4899f77d8940910ea28ae7ff45a,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1486562345}
+    - target: {fileID: 3330699753719651907, guid: b9e7d4899f77d8940910ea28ae7ff45a,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1486562345}
+    - target: {fileID: 5678330891218027577, guid: b9e7d4899f77d8940910ea28ae7ff45a,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1486562345}
+    - target: {fileID: 5789744057570595058, guid: b9e7d4899f77d8940910ea28ae7ff45a,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 8426875752484998943, guid: b9e7d4899f77d8940910ea28ae7ff45a,
         type: 3}
       propertyPath: m_AnchorMax.x
@@ -21785,6 +21919,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Objectzip
       objectReference: {fileID: 0}
+    - target: {fileID: 9046586424649744950, guid: b9e7d4899f77d8940910ea28ae7ff45a,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1486562345}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b9e7d4899f77d8940910ea28ae7ff45a, type: 3}
 --- !u!114 &1900804643
@@ -21804,7 +21943,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21836,7 +21975,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21868,7 +22007,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21912,7 +22051,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21944,7 +22083,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -21976,7 +22115,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22008,7 +22147,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22046,7 +22185,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -22091,7 +22230,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 0}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22123,7 +22262,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22155,7 +22294,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22187,7 +22326,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22219,7 +22358,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22251,7 +22390,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22283,7 +22422,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22315,7 +22454,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22347,7 +22486,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22379,7 +22518,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22411,7 +22550,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22443,7 +22582,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22475,7 +22614,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22507,7 +22646,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22539,7 +22678,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22571,7 +22710,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22603,7 +22742,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22635,7 +22774,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22673,7 +22812,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -22706,7 +22845,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22769,7 +22908,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22807,7 +22946,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -22823,18 +22962,6 @@ MonoBehaviour:
   var: 0
   droppercent: 0
   v: -1
---- !u!114 &2059013724 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3872414723394756606, guid: e9d96a3a4269f4d4a8e6cf6ab99e2a9d,
-    type: 3}
-  m_PrefabInstance: {fileID: 3872414725095936418}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &2059241414
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22852,7 +22979,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22884,7 +23011,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22916,7 +23043,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22948,7 +23075,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -22980,7 +23107,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -23012,7 +23139,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -23050,7 +23177,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 4
@@ -23095,7 +23222,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -23127,7 +23254,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -23159,7 +23286,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -23191,7 +23318,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -23223,7 +23350,7 @@ MonoBehaviour:
   SR: {fileID: 0}
   BC: {fileID: 0}
   animation: {fileID: 0}
-  player: {fileID: 462656173}
+  player: {fileID: 1486562345}
   CC: {fileID: 0}
   h: 0
   speed: 0
@@ -23249,7 +23376,7 @@ PrefabInstance:
         type: 3}
       propertyPath: pos
       value: 
-      objectReference: {fileID: 462656171}
+      objectReference: {fileID: 1486562346}
     - target: {fileID: 200180029599080960, guid: 8dfa731b1a17c1349b0fbb4e9f8a2e56,
         type: 3}
       propertyPath: SkillImage
@@ -23338,164 +23465,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8dfa731b1a17c1349b0fbb4e9f8a2e56, type: 3}
---- !u!1 &793743223817723000 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8915113042626570043, guid: 1de56c506a2c22e419f92fd005c2dfd1,
-    type: 3}
-  m_PrefabInstance: {fileID: 8123131786209409859}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1495496571853378658
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1073136083, guid: d228f4c6978cb5048859e017b1e64958, type: 3}
-      propertyPath: m_SortingOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1554429124, guid: d228f4c6978cb5048859e017b1e64958, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263429, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_Name
-      value: player
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -47.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 242.82
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263433, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263437, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: PlayerHPText
-      value: 
-      objectReference: {fileID: 2059013724}
-    - target: {fileID: 1495496572047263437, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: PlayerATKText
-      value: 
-      objectReference: {fileID: 248023226}
-    - target: {fileID: 1495496572047263437, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: AbilityPointText
-      value: 
-      objectReference: {fileID: 197198364}
-    - target: {fileID: 1495496572047263437, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: PlayerTotalDmgText
-      value: 
-      objectReference: {fileID: 889628564}
-    - target: {fileID: 1495496572047263439, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: hpSlider
-      value: 
-      objectReference: {fileID: 1433920538}
-    - target: {fileID: 1495496572047263439, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: expSlider
-      value: 
-      objectReference: {fileID: 1490644814}
-    - target: {fileID: 1495496572047263439, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: gameManger
-      value: 
-      objectReference: {fileID: 1408890901}
-    - target: {fileID: 1495496572047263439, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: EnergySlider
-      value: 
-      objectReference: {fileID: 286802080}
-    - target: {fileID: 1495496572047263439, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: MaxFallSpeed
-      value: 30
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263439, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: DoubleJumpPower
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 1495496572047263439, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: Circle.Array.data[0]
-      value: 
-      objectReference: {fileID: 793743223817723000}
-    - target: {fileID: 1495496572047263439, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: Circle.Array.data[1]
-      value: 
-      objectReference: {fileID: 1813666639}
-    - target: {fileID: 1495496572047263439, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: Circle.Array.data[2]
-      value: 
-      objectReference: {fileID: 1832264799}
-    - target: {fileID: 3386195853511132881, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3386195854010026543, guid: d228f4c6978cb5048859e017b1e64958,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d228f4c6978cb5048859e017b1e64958, type: 3}
 --- !u!1001 &2151355817992408959
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23506,7 +23475,7 @@ PrefabInstance:
     - target: {fileID: 2151355818588110090, guid: 9ec5378ba22af8a4f8b1995895c12c6c,
         type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2151355818588110090, guid: 9ec5378ba22af8a4f8b1995895c12c6c,
         type: 3}
@@ -23576,7 +23545,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 462656175}
+      objectReference: {fileID: 0}
     - target: {fileID: 3872414723511703737, guid: e9d96a3a4269f4d4a8e6cf6ab99e2a9d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -23636,7 +23605,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 462656175}
+      objectReference: {fileID: 0}
     - target: {fileID: 3872414724128861595, guid: e9d96a3a4269f4d4a8e6cf6ab99e2a9d,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -23920,7 +23889,7 @@ PrefabInstance:
     - target: {fileID: 3872414725269286634, guid: e9d96a3a4269f4d4a8e6cf6ab99e2a9d,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3872414725269286634, guid: e9d96a3a4269f4d4a8e6cf6ab99e2a9d,
         type: 3}
@@ -24100,7 +24069,7 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656171}
+      objectReference: {fileID: 0}
     - target: {fileID: 3952799032965918187, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: gameManger
@@ -24110,7 +24079,7 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656171}
+      objectReference: {fileID: 0}
     - target: {fileID: 6056795308946106819, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: gameManger
@@ -24119,7 +24088,7 @@ PrefabInstance:
     - target: {fileID: 8123131785093890113, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 8123131785093890113, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
@@ -24185,32 +24154,42 @@ PrefabInstance:
         type: 3}
       propertyPath: Player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 8123131785739001873, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656171}
+      objectReference: {fileID: 1486562346}
     - target: {fileID: 8123131785739001873, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: gameManger
       value: 
       objectReference: {fileID: 1408890901}
+    - target: {fileID: 8123131785739001873, guid: 1de56c506a2c22e419f92fd005c2dfd1,
+        type: 3}
+      propertyPath: CircleSlider
+      value: 
+      objectReference: {fileID: 1861060593}
     - target: {fileID: 8123131785753403169, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: Player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 8123131785753403169, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656171}
+      objectReference: {fileID: 1486562346}
     - target: {fileID: 8123131785753403169, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: gameManger
       value: 
       objectReference: {fileID: 1408890901}
+    - target: {fileID: 8123131785753403169, guid: 1de56c506a2c22e419f92fd005c2dfd1,
+        type: 3}
+      propertyPath: CircleSlider
+      value: 
+      objectReference: {fileID: 1861060593}
     - target: {fileID: 8123131785763770003, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: gameManger
@@ -24225,7 +24204,7 @@ PrefabInstance:
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656171}
+      objectReference: {fileID: 0}
     - target: {fileID: 8123131786949265506, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: gameManger
@@ -24235,17 +24214,22 @@ PrefabInstance:
         type: 3}
       propertyPath: Player
       value: 
-      objectReference: {fileID: 462656173}
+      objectReference: {fileID: 1486562345}
     - target: {fileID: 8915113042626570042, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 462656171}
+      objectReference: {fileID: 1486562346}
     - target: {fileID: 8915113042626570042, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: gameManger
       value: 
       objectReference: {fileID: 1408890901}
+    - target: {fileID: 8915113042626570042, guid: 1de56c506a2c22e419f92fd005c2dfd1,
+        type: 3}
+      propertyPath: CircleSlider
+      value: 
+      objectReference: {fileID: 1861060593}
     - target: {fileID: 8915113042626570043, guid: 1de56c506a2c22e419f92fd005c2dfd1,
         type: 3}
       propertyPath: m_IsActive
