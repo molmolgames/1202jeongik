@@ -79,7 +79,7 @@ public class EnemyMove : EnemyController
                 CC.enabled = false;
                 Invoke("DeActive", 1);
                 Invoke("UnActiveHpSlider", 1);
-                Invoke("DropItem", 1f);
+                DropItem(3);
                 StopMove();
                 player.CurrentExp += EnemyExp;
                 // player.CircleEnergy += EnemyExp;

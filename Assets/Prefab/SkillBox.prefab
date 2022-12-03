@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 200180029599080962}
   - component: {fileID: 200180029599080960}
   - component: {fileID: 200180029599080961}
-  m_Layer: 2
+  m_Layer: 10
   m_Name: SkillBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}

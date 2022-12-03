@@ -13,4 +13,5 @@ public class ObjectData : MonoBehaviour
     public bool isDoor;
     public bool isPaper; //성익
     public bool isStone; //성익
+    public bool isWaterMapObject; //from jeongik
 }

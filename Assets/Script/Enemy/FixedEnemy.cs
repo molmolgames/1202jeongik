@@ -31,6 +31,7 @@ public class FixedEnemy : EnemyController
     public Transform bulletPosition;
     public float coolTime; // �� ��Ÿ��
     public float shotTime; // ���� ��Ÿ��(����Ÿ�� >> ������Ÿ��)
+    public float shotSpeed;
     private float currentTime;
     private float shotcurrentTime;
     private int shotCount;
@@ -78,13 +79,14 @@ public class FixedEnemy : EnemyController
             if (collider.CompareTag( "Player"))
             {
                 Vector2 newbulletPos = collider.transform.position - bulletPosition.position;
+                newbulletPos = newbulletPos.normalized; /// from jeongik
                 if (currentTime <= 0 || shotCount<=2)
                 {
                     if (shotcurrentTime <= 0)
                     {
                         GameObject bulletcopy = Instantiate(bullet, bulletPosition.position, transform.rotation);
                         Rigidbody2D bulletRigid = bulletcopy.GetComponent<Rigidbody2D>();                      
-                        bulletRigid.velocity = newbulletPos * 1.5f;
+                        bulletRigid.velocity = Mathf.Abs(shotSpeed) * newbulletPos * 1.5f;// from jeongik
                         shotCount++;
                         shotcurrentTime = shotTime;                      
                     }

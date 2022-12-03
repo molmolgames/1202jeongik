@@ -471,6 +471,16 @@ public class GameManger : MonoBehaviour
                 }
             }
         }
+        //from jeongik
+        else if (objData.isWaterMapObject == true)
+        {   
+            if(objData.id == 0)
+            {
+                //Debug.Log("watermapobject");
+                WaterMapController.ScanObject(scanObject);
+            }
+            
+        }
     }
     void Talk(int id, bool isNpc)
     {

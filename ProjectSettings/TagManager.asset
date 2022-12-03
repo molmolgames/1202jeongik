@@ -20,6 +20,7 @@ TagManager:
   - Circle
   - HitBox
   - ItemSlowSkill
+  - UpExcelZone
   layers:
   - Default
   - TransparentFX
@@ -31,7 +32,7 @@ TagManager:
   - Circle
   - normalfloor
   - blockedfloor
-  - 
+  - SkillBox
   - HitBox
   - PlayerDamaged
   - Bullet

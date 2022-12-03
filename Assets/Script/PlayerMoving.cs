@@ -325,6 +325,8 @@ public class PlayerMoving : DamageController
         {
             rigid.velocity = new Vector2(MaxSpeed * (-1), rigid.velocity.y);
         }
+
+        //오브젝트 스캔
         Debug.DrawRay(rigid.position, Vector3.left * 1f, new Color(0, 1, 0));
         Debug.DrawRay(rigid.position, Vector3.right * 1f, new Color(0, 1, 0));
         RaycastHit2D rayLeftHit = Physics2D.Raycast(rigid.position, Vector3.left, 1f,LayerMask.GetMask("SearchObject"));
@@ -446,6 +448,7 @@ void OnCollisionEnter2D(Collision2D collision)
         {
             rigid.AddForce(Vector2.up * 20, ForceMode2D.Force);
         }
+        
     }
 
     //public void OnDamaged(Vector2 Target_Position, float damage)
