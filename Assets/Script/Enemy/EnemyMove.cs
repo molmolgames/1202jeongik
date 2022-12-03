@@ -111,7 +111,7 @@ public class EnemyMove : EnemyController
         if (En.velocity.x > 0)
         {
             Debug.DrawRay(En.position + Vector2.right * 0.3f, Vector2.down, new Color(0, 1, 0));
-            RaycastHit2D rayHit = Physics2D.Raycast(En.position + Vector2.right * 0.3f, Vector2.down, 1, LayerMask.GetMask("normalfloor"));
+            RaycastHit2D rayHit = Physics2D.Raycast(En.position + Vector2.right * 0.3f, Vector2.down, 1, LayerMask.GetMask("normalfloor","blockedfloor")); //from jeongik 1204
             //Debug.Log(rayHit.collider);
             if (rayHit.collider == null)
             {
@@ -123,7 +123,7 @@ public class EnemyMove : EnemyController
         else if (En.velocity.x < 0)
         {
             Debug.DrawRay(En.position + Vector2.left * 0.3f, Vector2.down, new Color(0, 1, 0));
-            RaycastHit2D rayHit = Physics2D.Raycast(En.position + Vector2.left * 0.3f, Vector2.down, 1, LayerMask.GetMask("normalfloor"));
+            RaycastHit2D rayHit = Physics2D.Raycast(En.position + Vector2.left * 0.3f, Vector2.down, 1, LayerMask.GetMask("normalfloor","blockedfloor")); //from jeongik 1204
             //Debug.Log(rayHit.collider);
             if (rayHit.collider == null)
             {
