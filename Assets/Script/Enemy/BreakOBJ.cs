@@ -36,7 +36,7 @@ public class BreakOBJ : EnemyController
         En = GetComponent<Rigidbody2D>();
         SR = GetComponent<SpriteRenderer>();
         // animation = GetComponent<Animator>();
-        BC = GetComponent<BoxCollider2D>();
+        CC = GetComponent<CapsuleCollider2D>();
         EnemyCurrentHp = EnemyHP;
         hp = EnemyCurrentHp;
         enemyHpSlider.gameObject.SetActive(false);
@@ -76,13 +76,16 @@ public class BreakOBJ : EnemyController
             {
                 SR.color = new Color(1, 0, 1, 0.5f);
                 // SR.flipY = true;
-                BC.enabled = false;
+                CC.enabled = false;
                 Invoke("DeActive", 1);
+                Debug.Log("get");
                 Invoke("UnActiveHpSlider", 1);
-                Invoke("DropItem", 1.2f);
+                Debug.Log("get1");
+                DropItem(droppercent);
+                Debug.Log("get2");
                 // StopMove();
                 // player.CurrentExp += EnemyExp;
-                Invoke("Revive", 10);
+                // Invoke("Revive", 10);
             }
             else
             {

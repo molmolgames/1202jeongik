@@ -11,4 +11,6 @@ public class ObjectData : MonoBehaviour
     public bool isKey;
     public bool isTeleport;
     public bool isDoor;
+    public bool isPaper; //성익
+    public bool isStone; //성익
 }

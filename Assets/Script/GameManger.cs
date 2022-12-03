@@ -15,7 +15,7 @@ public class GameManger : MonoBehaviour
     public GameObject Restart_Button;
     public GameObject menuSet;  
 
-    //Canvas°ü·Ã
+    //Canvasï¿½ï¿½ï¿½ï¿½
     public TalkManager talkManager;
     public GameObject talkPanel;
     public Text talkText;
@@ -27,8 +27,9 @@ public class GameManger : MonoBehaviour
     public GameObject HelpPanel;
     public Text playerLevelText;
     public Text playerHpText;
+    public GameObject barricadeobj; //ì„±ìµ ìˆ˜ì •
 
-    // Inspector¿¡¼­ »ç¿ëx
+    // Inspectorï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½x
     static int StageIndex;
     static int isLoad;
     public bool isSlow;
@@ -40,6 +41,8 @@ public class GameManger : MonoBehaviour
     public int AttackPoint_Price = 10;
     public int HpPoint_Price = 10;
     int[] SceneKey = new int[3];
+    int[] PaperNo = new int[10];
+    int[] StoneNo = new int[10];
 
     void Start()
     {
@@ -85,7 +88,7 @@ public class GameManger : MonoBehaviour
         if(collision.gameObject.tag == "Player")
         {
             PlayerReposition();
-            HealthDown(10); //³«µ© 10
+            HealthDown(10); //ï¿½ï¿½ï¿½ï¿½ 10
         }
     }
   
@@ -137,16 +140,16 @@ public class GameManger : MonoBehaviour
         PlayerPrefs.SetInt("SceneIndex", StageIndex);
         PlayerPrefs.SetInt("AbilityPoint", player.AbilityPoint);
 
-        string strArr = ""; // ¹®ÀÚ¿­ »ı¼º
-        for (int i = 0; i < SceneKey.Length; i++) // ¹è¿­°ú ','¸¦ ¹ø°¥¾Æ°¡¸ç tempStr¿¡ ÀúÀå
+        string strArr = ""; // ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½ï¿½ï¿½ï¿½
+        for (int i = 0; i < SceneKey.Length; i++) // ï¿½è¿­ï¿½ï¿½ ','ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Æ°ï¿½ï¿½ï¿½ tempStrï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
         {
             strArr = strArr + SceneKey[i];
-            if (i < SceneKey.Length - 1) // ÃÖ´ë ±æÀÌÀÇ -1±îÁö¸¸ ,¸¦ ÀúÀå
+            if (i < SceneKey.Length - 1) // ï¿½Ö´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -1ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ,ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
             {
                 strArr = strArr + ",";
             }
         }
-        PlayerPrefs.SetString("SceneKeyData", strArr); // PlyerPrefs¿¡ ¹®ÀÚ¿­ ÇüÅÂ·Î ÀúÀå
+        PlayerPrefs.SetString("SceneKeyData", strArr); // PlyerPrefsï¿½ï¿½ ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½ï¿½ï¿½Â·ï¿½ ï¿½ï¿½ï¿½ï¿½
         PlayerPrefs.Save();
     }
     public void GameLoad()
@@ -173,11 +176,11 @@ public class GameManger : MonoBehaviour
         float CurrentHp = PlayerPrefs.GetFloat("PlayerCurrentHp");
         int abilityPoint = PlayerPrefs.GetInt("AbilityPoint");
 
-        string[] dataArr = PlayerPrefs.GetString("SceneKeyData").Split(','); // PlayerPrefs¿¡¼­ ºÒ·¯¿Â °ªÀ» Split ÇÔ¼ö¸¦ ÅëÇØ ¹®ÀÚ¿­ÀÇ ,·Î ±¸ºĞÇÏ¿© ¹è¿­¿¡ ÀúÀå
-        int[] sceneKey = new int[dataArr.Length]; // ¹®ÀÚ¿­ ¹è¿­ÀÇ Å©±â¸¸Å­ Á¤¼öÇü ¹è¿­ »ı¼º
+        string[] dataArr = PlayerPrefs.GetString("SceneKeyData").Split(','); // PlayerPrefsï¿½ï¿½ï¿½ï¿½ ï¿½Ò·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Split ï¿½Ô¼ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ú¿ï¿½ï¿½ï¿½ ,ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¿ï¿½ ï¿½è¿­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+        int[] sceneKey = new int[dataArr.Length]; // ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½è¿­ï¿½ï¿½ Å©ï¿½â¸¸Å­ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½è¿­ ï¿½ï¿½ï¿½ï¿½
         for (int i = 0; i < dataArr.Length; i++)
         {
-            sceneKey[i] = System.Convert.ToInt32(dataArr[i]); // ¹®ÀÚ¿­ ÇüÅÂ·Î ÀúÀåµÈ °ªÀ» Á¤¼öÇüÀ¸·Î º¯È¯ÈÄ ÀúÀå
+            sceneKey[i] = System.Convert.ToInt32(dataArr[i]); // ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½ï¿½ï¿½Â·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È¯ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
         }
         SceneKey = sceneKey;
 
@@ -206,16 +209,16 @@ public class GameManger : MonoBehaviour
         PlayerPrefs.SetFloat("PlayerHp", player.PlayerHp);
         PlayerPrefs.SetFloat("PlayerCurrentHp", player.CurrentHp);
         PlayerPrefs.SetInt("AbilityPoint", player.AbilityPoint);
-        string strArr = ""; // ¹®ÀÚ¿­ »ı¼º
-        for (int i = 0; i < SceneKey.Length; i++) // ¹è¿­°ú ','¸¦ ¹ø°¥¾Æ°¡¸ç tempStr¿¡ ÀúÀå
+        string strArr = ""; // ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½ï¿½ï¿½ï¿½
+        for (int i = 0; i < SceneKey.Length; i++) // ï¿½è¿­ï¿½ï¿½ ','ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Æ°ï¿½ï¿½ï¿½ tempStrï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
         {
             strArr = strArr + SceneKey[i];
-            if (i < SceneKey.Length - 1) // ÃÖ´ë ±æÀÌÀÇ -1±îÁö¸¸ ,¸¦ ÀúÀå
+            if (i < SceneKey.Length - 1) // ï¿½Ö´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -1ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ,ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
             {
                 strArr = strArr + ",";
             }
         }
-        PlayerPrefs.SetString("SceneKeyData", strArr); // PlyerPrefs¿¡ ¹®ÀÚ¿­ ÇüÅÂ·Î ÀúÀå
+        PlayerPrefs.SetString("SceneKeyData", strArr); // PlyerPrefsï¿½ï¿½ ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½ï¿½ï¿½Â·ï¿½ ï¿½ï¿½ï¿½ï¿½
         PlayerPrefs.Save();
     }
     public void SceneLoad()
@@ -239,11 +242,11 @@ public class GameManger : MonoBehaviour
         float PlayerHp = PlayerPrefs.GetFloat("PlayerHp");
         float CurrentHp = PlayerPrefs.GetFloat("PlayerCurrentHp");
         int abilityPoint = PlayerPrefs.GetInt("AbilityPoint");
-        string[] dataArr = PlayerPrefs.GetString("SceneKeyData").Split(','); // PlayerPrefs¿¡¼­ ºÒ·¯¿Â °ªÀ» Split ÇÔ¼ö¸¦ ÅëÇØ ¹®ÀÚ¿­ÀÇ ,·Î ±¸ºĞÇÏ¿© ¹è¿­¿¡ ÀúÀå
-        int[] sceneKey = new int[dataArr.Length]; // ¹®ÀÚ¿­ ¹è¿­ÀÇ Å©±â¸¸Å­ Á¤¼öÇü ¹è¿­ »ı¼º
+        string[] dataArr = PlayerPrefs.GetString("SceneKeyData").Split(','); // PlayerPrefsï¿½ï¿½ï¿½ï¿½ ï¿½Ò·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Split ï¿½Ô¼ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ú¿ï¿½ï¿½ï¿½ ,ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¿ï¿½ ï¿½è¿­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+        int[] sceneKey = new int[dataArr.Length]; // ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½è¿­ï¿½ï¿½ Å©ï¿½â¸¸Å­ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½è¿­ ï¿½ï¿½ï¿½ï¿½
         for (int i = 0; i < dataArr.Length; i++)
         {
-            sceneKey[i] = System.Convert.ToInt32(dataArr[i]); // ¹®ÀÚ¿­ ÇüÅÂ·Î ÀúÀåµÈ °ªÀ» Á¤¼öÇüÀ¸·Î º¯È¯ÈÄ ÀúÀå
+            sceneKey[i] = System.Convert.ToInt32(dataArr[i]); // ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½ï¿½ï¿½Â·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È¯ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
         }
         SceneKey = sceneKey;
 
@@ -369,6 +372,20 @@ public class GameManger : MonoBehaviour
                     talkPanel.SetActive(isTalkPanelActive);
                 }
             }
+            if (objData.id == 901) //ì„±ìµ
+            {
+                if (PaperNo[0] == 1 && PaperNo[1] == 1)
+                {
+                    OpenFinalSceneDoor(scanObject);
+                }
+            }
+            if (objData.id == 902) //ì„±ìµ
+            {
+                if (PaperNo[2] == 1 && PaperNo[3] == 1)
+                {
+                    OpenFinalSceneDoor(scanObject);
+                }
+            }
         }
         else if(objData.isTeleport == true)
         {
@@ -397,7 +414,63 @@ public class GameManger : MonoBehaviour
                 SceneManager.LoadScene(5);
             }
         }
-        
+        else if(objData.isPaper == true) //ì„±ìµ
+        {
+            if(objData.id == 801)
+            {
+                Debug.Log("ok");
+                Debug.Log(scanObject);
+                //Talk(objData.id, objData.isNpc);
+                //talkPanel.SetActive(isTalkPanelActive);
+                PaperNo[0] = 1;
+                scanObject.SetActive(false);
+            }
+            else if(objData.id == 802)
+            {
+                PaperNo[1] = 1;
+                scanObject.SetActive(false);
+            }
+             else if(objData.id == 803)
+            {
+                PaperNo[2] = 1;
+                scanObject.SetActive(false);
+            }
+             else if(objData.id == 804)
+            {
+                PaperNo[3] = 1;
+                scanObject.SetActive(false);
+            }
+        }
+        else if(objData.isStone == true) //ì„±ìµ
+        {
+            if(objData.id == 1001)
+            {
+                StoneNo[0] = 1;
+                scanObject.SetActive(false);
+                if(StoneNo[0] == 1 && StoneNo[1] == 1 && StoneNo[2] == 1)
+                {
+                    barricadeobj.SetActive(false);
+                }
+            }
+            if(objData.id == 1002)
+            {
+                StoneNo[1] = 1;
+                scanObject.SetActive(false);
+                if(StoneNo[0] == 1 && StoneNo[1] == 1 && StoneNo[2] == 1)
+                {
+                    barricadeobj.SetActive(false);
+                }
+            }
+            if(objData.id == 1003)
+            {
+                StoneNo[2] = 1;
+                scanObject.SetActive(false);
+                if(StoneNo[0] == 1 && StoneNo[1] == 1 && StoneNo[2] == 1)
+                {
+                    barricadeobj.SetActive(false);
+                }
+            }
+        }
     }
     void Talk(int id, bool isNpc)
     {
@@ -458,7 +531,7 @@ public class GameManger : MonoBehaviour
                 break;
         }
     }
-    public void Buy_ATTACKPOINT_Button()   //»óÁ¡¿¡¼­ Atk »ì¶§ ¹öÆ° È£È¯
+    public void Buy_ATTACKPOINT_Button()   //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Atk ï¿½ì¶§ ï¿½ï¿½Æ° È£È¯
     {
         BuyItem("ATTACKPOINT");
     }
@@ -466,7 +539,7 @@ public class GameManger : MonoBehaviour
     {
         BuyItem("HPPOINT");
     }
-    public void OpenPlayerStat()   // ½ºÅİÃ¢ ¿­¸² È£È¯
+    public void OpenPlayerStat()   // ï¿½ï¿½ï¿½ï¿½Ã¢ ï¿½ï¿½ï¿½ï¿½ È£È¯
     {
         playerStatPanel.SetActive(true);
         isPlayerStatPanel = true;
@@ -487,7 +560,7 @@ public class GameManger : MonoBehaviour
             ClosePlayerStat();
         }
     }
-    public void OpenHelp()   //µµ¿ò¸»ÆÎ ¿­¸² È£È¯
+    public void OpenHelp()   //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ È£È¯
     {
         HelpPanel.SetActive(true);
         isHelpPanel = true;
